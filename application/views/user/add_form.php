@@ -23,9 +23,7 @@
         <div class="mb-3">
                 <label for="full">USERNAME <code>*</code></label>
                 <input class="form-control" <?php echo form-error('username') ? 'is-invalid':'' ?>"
-hhhhh
 
-fsfsfs
 
 
 </main>
